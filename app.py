@@ -6,7 +6,7 @@ from telegram_bot import send_message
 
 app = Flask(__name__)
 
-CHECK_INTERVAL = 60 * 10  # a cada 10 minutos
+CHECK_INTERVAL = 60 * 10  # verifica a cada 10 minutos
 sent_links = set()
 
 def news_loop():
