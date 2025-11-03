@@ -1,6 +1,6 @@
-# Finance News Bot
+# Finance News Bot - Busca Geral
 
-Bot de notícias financeiras para Telegram, rodando como webservice Flask (Render Free).
+Bot de notícias financeiras para Telegram que busca notícias de qualquer lugar da internet e prioriza fontes confiáveis.
 
 ## Configuração
 
